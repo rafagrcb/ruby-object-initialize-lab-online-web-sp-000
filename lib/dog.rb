@@ -17,3 +17,5 @@ class Dog
   end
 end
 
+class Person
+  def 
