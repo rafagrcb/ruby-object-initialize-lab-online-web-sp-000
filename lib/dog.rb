@@ -18,6 +18,6 @@ class Dog
 end
 
 class Person
-  def initialize (person_name)
-    @name = person_name
+  def initialize (persons_name)
+    @name = persons_name
     
